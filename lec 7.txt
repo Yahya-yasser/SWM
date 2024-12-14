@@ -81,3 +81,8 @@ not focus on
 2-Sequence of the Interactions
 3-need to sequence D or Activity D to complete the detailed interactions part
 
+Sequence Diagram
+1-interaction Diagram
+2-Decalre the flow of message and Interactions
+3-between Components & actors
+
