@@ -27,3 +27,10 @@ Key components of system modelling
 2- Data (entities & attributes & relationships)
 3- Interaction (communication & collaboration)
 4- Behaviour (respond to evenets)
+
+Domain modelling (perfume system )
+Conceptual model to understand 
+  1- domain  (اسأل ايه اللي بيحصل في مجال العطور)
+  2- entities(عميل - برفان - دفع - طلب)
+  3- relationships (1-M M-M 1-1)
+  4- Behaviours (إنشاء طلبية جديدة، تحديث المخزون)
