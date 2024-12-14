@@ -60,4 +60,7 @@ Interaction modeling
 4- between components
 5- use case & sequence Diagram
 
-
+Interaction Modeling: Purpose
+1- visual representation of Interactions
+2- declare communication between components 
+3- decalra DEPENDENCIES 
