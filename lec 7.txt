@@ -45,3 +45,11 @@ information modeling
 System Dynamics
 1- how the system change from State to another (الانتقال بين الحالات: السيارة تنتقل من حالة "سير" إلى "توقف" عند الإشارة الحمراء، ثم تعود إلى "سير" عند تحول الإشارة إلى الأخضر.)
 2- how the system change during Time  (التغير مع الزمن: الصباح: المدينة مزدحمة بسبب ساعات الذروة، الظهيرة: حركة المرور أخف، المساء: العودة للزحام مرة أخرى.)
+
+Key Elements in Specifying System Dynamics
+1- state                (current State of the system)
+2- state Transition     (change from state to another)
+3- Triggers & Events    (the Triggers that activate the events) (place order -> processing)
+4- Actions & Activities (actions in specific State) (عند الانتقال إلى حالة Night Mode (وضع الليل)، الأنشطة قد تشمل: تخفيض إضاءة الأنوار، ضبط التكييف أو الحرارة إلى درجة معينة.)
+5- Conditions           (actions in specific condition) (إذا كانت الإضاءة أكثر من 80% في الغرفة، يتم تقليل الإضاءة إلى 40% عند تفعيل وضع السينما.)
+
