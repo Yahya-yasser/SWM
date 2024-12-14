@@ -34,3 +34,10 @@ Conceptual model to understand
   2- entities(عميل - برفان - دفع - طلب)
   3- relationships (1-M M-M 1-1)
   4- Behaviours (إنشاء طلبية جديدة، تحديث المخزون)
+
+information modeling 
+1- how the information is Organized 
+  1- Sorage 
+  2- management 
+  3- arrangement
+2- access the information
