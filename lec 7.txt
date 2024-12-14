@@ -41,3 +41,7 @@ information modeling
   2- management 
   3- arrangement
 2- access the information
+
+System Dynamics
+1- how the system change from State to another (الانتقال بين الحالات: السيارة تنتقل من حالة "سير" إلى "توقف" عند الإشارة الحمراء، ثم تعود إلى "سير" عند تحول الإشارة إلى الأخضر.)
+2- how the system change during Time  (التغير مع الزمن: الصباح: المدينة مزدحمة بسبب ساعات الذروة، الظهيرة: حركة المرور أخف، المساء: العودة للزحام مرة أخرى.)
