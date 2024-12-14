@@ -21,3 +21,9 @@ System modelling prespectives
 (كيف تتغير المدينة مع الأحداث؟)
 (كيف تستجيب المدينة لزلازل أو أزمات مرورية؟ )
   1- Activity Diagram & State Diagram declare how the system response to events like (press button)
+
+Key components of system modelling
+1- Structure (organization & arrangement & calsses & tables) 
+2- Data (entities & attributes & relationships)
+3- Interaction (communication & collaboration)
+4- Behaviour (respond to evenets)
