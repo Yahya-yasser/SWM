@@ -64,3 +64,9 @@ Interaction Modeling: Purpose
 1- visual representation of Interactions
 2- declare communication between components 
 3- decalra DEPENDENCIES 
+
+Interaction Modeling: Components
+1- actors (system or User)
+2- Message (response or request)
+3- Trigger & actions (the triggers activate the actions)(click button)
+4-control flow (sequence of the Interactions)
