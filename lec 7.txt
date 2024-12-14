@@ -74,3 +74,10 @@ Interaction Modeling: Components
 Use case Diagram 
 1- focus on Functional requirments 
 2- not focus on how the functions work
+
+Use Case Limitaions 
+not focus on 
+1-internal logic of functions 
+2-Sequence of the Interactions
+3-need to sequence D or Activity D to complete the detailed interactions part
+
