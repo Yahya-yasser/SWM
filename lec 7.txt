@@ -86,3 +86,10 @@ Sequence Diagram
 2-Decalre the flow of message and Interactions
 3-between Components & actors
 
+Components of a sequence Diagram
+1- Actor       (user or System)
+2- message     (request or respond)
+3- frame       (loops conditions)
+4- object      (entities)
+5- lifeline 
+6-activation bar (active object or doing task)
