@@ -64,6 +64,7 @@ Interaction Modeling: Purpose
 1- visual representation of Interactions
 2- declare communication between components 
 3- decalra DEPENDENCIES 
+4- show system behaviour
 
 Interaction Modeling: Components
 1- actors (system or User)
@@ -93,3 +94,8 @@ Components of a sequence Diagram
 4- object      (entities)
 5- lifeline 
 6-activation bar (active object or doing task)
+
+Purpose of Sequence Diagrams
+1- visual representation of Interactions
+2- declare communication between components 
+3- show system behaviour
