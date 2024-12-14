@@ -1,2 +1,23 @@
 System modelling 
 1- Create models that declare the prespectives  (تخيل إنك بتصمم مدينة جديدة. قبل ما تبدأ البناء، لازم تعمل خريطة)
+
+System modelling prespectives
+1- External prespectives 
+(إزاي المدينة الجديدة هتتفاعل مع المدن اللي حواليها)
+(المدينة تحتاج طرق رئيسية توصل بينها وبين المدن الأخرى)
+  1-how the system interact with the external users & system like (API & User login)
+
+2- Interaction Perspective 
+(ركز على "التواصل" بين الأجزاء)
+(الناس بتتنقل بين مناطق المدينة (أتوبيسات، مترو، سيارات أجرة).)
+  1-how the user interact with the product (press button & fill Data)
+  2-the Interaction between components 
+
+3- Structural Perspective
+(تخطيط أحياء المدينة (حي سكني، حي تجاري، حي صناعي).)
+  1-Class Diagram & Database schema declare the relationships between tables & objects 
+
+4- behavioural Perspective
+(كيف تتغير المدينة مع الأحداث؟)
+(كيف تستجيب المدينة لزلازل أو أزمات مرورية؟ )
+  1- Activity Diagram & State Diagram declare how the system response to events like (press button)
