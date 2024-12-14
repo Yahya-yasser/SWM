@@ -1,1 +1,2 @@
-Interaction Model
+System modelling 
+1- Create models that declare the prespectives  (تخيل إنك بتصمم مدينة جديدة. قبل ما تبدأ البناء، لازم تعمل خريطة)
