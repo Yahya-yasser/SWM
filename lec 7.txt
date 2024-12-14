@@ -70,3 +70,7 @@ Interaction Modeling: Components
 2- Message (response or request)
 3- Trigger & actions (the triggers activate the actions)(click button)
 4-control flow (sequence of the Interactions)
+
+Use case Diagram 
+1- focus on Functional requirments 
+2- not focus on how the functions work
